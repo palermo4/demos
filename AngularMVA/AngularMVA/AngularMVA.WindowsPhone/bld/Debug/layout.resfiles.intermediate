@@ -1,0 +1,16 @@
+assets\data\evangelists.json
+assets\js\app\angular.min.js
+assets\js\app\jquery-2.1.1.min.js
+assets\js\app\main-app.start.js
+assets\js\app\winstore-jscompat.js
+default.html
+css\default.css
+css\ui-themed.css
+css\ui-themed.theme-dark.css
+css\ui-themed.theme-light.css
+images\SplashScreen.scale-240.png
+images\Square150x150Logo.scale-240.png
+images\Square44x44Logo.scale-240.png
+images\Square71x71Logo.scale-240.png
+images\StoreLogo.scale-240.png
+images\Wide310x150Logo.scale-240.png
