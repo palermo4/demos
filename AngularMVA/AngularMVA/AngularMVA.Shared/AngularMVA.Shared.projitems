@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>ef60211c-0254-4eb0-906a-dc169f7c8e36</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)assets\data\evangelists.json" />
+    <Content Include="$(MSBuildThisFileDirectory)assets\js\app\angular.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)assets\js\app\jquery-2.1.1.min.js" />
+    <Content Include="$(MSBuildThisFileDirectory)assets\js\app\main-app.start.js" />
+    <Content Include="$(MSBuildThisFileDirectory)assets\js\app\winstore-jscompat.js" />
+    <Content Include="$(MSBuildThisFileDirectory)default.html" />
+  </ItemGroup>
+</Project>

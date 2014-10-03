@@ -1,0 +1,11 @@
+assets\data\evangelists.json
+assets\js\app\angular.min.js
+assets\js\app\jquery-2.1.1.min.js
+assets\js\app\main-app.start.js
+assets\js\app\winstore-jscompat.js
+default.html
+css\default.css
+images\logo.png
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
