@@ -1,1 +1,0 @@
-C:\cloud\git\demo\AngularMVA\AngularMVA\AngularMVA.WindowsPhone\AngularMVA.WindowsPhone.jsproj;neutral

@@ -1,1 +1,0 @@
-C:\cloud\git\demo\AngularMVA\AngularMVA\AngularMVA.Windows\AngularMVA.Windows.jsproj;neutral
